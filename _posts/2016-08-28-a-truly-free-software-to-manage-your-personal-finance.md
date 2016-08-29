@@ -1,22 +1,32 @@
 ---
-datePublished: '2016-08-28T12:31:40.724Z'
+datePublished: '2016-08-28T12:36:59.079Z'
 sourcePath: _posts/2016-08-28-a-truly-free-software-to-manage-your-personal-finance.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T12:31:40.157Z'
+dateModified: '2016-08-28T12:36:47.466Z'
 title: Frequently Asked Questions
 publisher: {}
 description: >-
-  We believe that everyone should have access to good personal finance software.
-  Also
+  We found good money habit an important life skill that many people are not
+  cultivating. As software developers and avid money people ourselves, we
+  believe in the power of awareness, i.e. “whatever that can me measured, can be
+  improved”. In the world of software, this translates to building tools that
+  allow you to look behind the bank statements and hear the stories your dollars
+  are telling you.
 starred: false
 url: a-truly-free-software-to-manage-your-personal-finance/index.html
 _type: Blurb
 
 ---
 # Frequently Asked Questions
+
+## What motivated you to build FPFS?
+
+We found good money habit an important life skill that many people are not cultivating. As software developers and avid money people ourselves, we believe in the power of awareness, i.e. "whatever that can me measured, can be improved". In the world of software, this translates to building tools that allow you to look behind the bank statements and hear the stories your dollars are telling you.
+
+You may also want to read our **origin story**.
 
 ## Why free?
 
@@ -47,3 +57,9 @@ Here, of course!
 But a bit more time is needed before this awesome program is open-to-all.
 
 We are still beta-testing our core product between ourselves (the developers), friends and families. We will be rolling out private invitations in the next few months for the money and tech enthusiasts before opening the door to the public. We know that you are as excited about this as we are so please trust us it is going to be worth the wait.
+
+## Press and other questions
+
+Shoot us an email at [hello@freepersonalfinancesoftware.net][0].
+
+[0]: http://mailto:hello@freepersonalfinancesoftware.net/ "email us"
