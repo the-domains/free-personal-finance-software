@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T11:56:19.398Z'
+datePublished: '2016-08-28T12:04:48.247Z'
 sourcePath: _posts/2016-08-28-a-truly-free-software-to-manage-your-personal-finance.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T11:56:18.701Z'
+dateModified: '2016-08-28T12:04:47.515Z'
 title: A Truly Free Software to Manage Your Personal Finance
 publisher: {}
 description: >-
@@ -16,6 +16,8 @@ url: a-truly-free-software-to-manage-your-personal-finance/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/761885bb-1dd6-46d0-9d0c-0537a7f6171f.jpg)
+
 # A Truly Free Software to Manage Your Personal Finance
 
 Free Personal Finance Software (aka. FPFS) is a free program that helps you with managing your personal finance.
