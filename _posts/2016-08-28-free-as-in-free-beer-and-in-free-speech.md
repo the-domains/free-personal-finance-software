@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-28T12:14:15.930Z'
+datePublished: '2016-08-28T12:15:08.746Z'
 sourcePath: _posts/2016-08-28-free-as-in-free-beer-and-in-free-speech.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T12:13:52.625Z'
+dateModified: '2016-08-28T12:15:07.903Z'
 title: Free as in free beer. Free as in free speech.
 publisher: {}
 description: Because it’s the smart thing to do!
