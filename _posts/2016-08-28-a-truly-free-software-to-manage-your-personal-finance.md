@@ -1,30 +1,29 @@
 ---
-datePublished: '2016-08-28T12:04:48.247Z'
+datePublished: '2016-08-28T12:07:48.451Z'
 sourcePath: _posts/2016-08-28-a-truly-free-software-to-manage-your-personal-finance.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T12:04:47.515Z'
+dateModified: '2016-08-28T12:07:40.687Z'
 title: A Truly Free Software to Manage Your Personal Finance
 publisher: {}
 description: >-
   Free Personal Finance Software (aka. FPFS) is a free program that helps you
-  with managing your personal finance.
+  manage your personal finance.
 starred: false
 url: a-truly-free-software-to-manage-your-personal-finance/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/761885bb-1dd6-46d0-9d0c-0537a7f6171f.jpg)
-
 # A Truly Free Software to Manage Your Personal Finance
 
-Free Personal Finance Software (aka. FPFS) is a free program that helps you with managing your personal finance.
+Free Personal Finance Software (aka. FPFS) is a free program that helps you manage your personal finance.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1834fe9-908d-4d86-b11c-8b76b3fb7e02.jpg)
 
 ## Our origin story
 
-We believe that good money habit is an important life skill that many people are not cultivating. As software developers and avid money people ourselves, we believe in the power of awareness, i.e. "whatever that can me measured, can be improved". In the world of software, this translates to building tools that allow you to look behind the bank statements and hear the stories your money is telling you.
+We believe that good money habit is an important life skill that many people are not cultivating. As software developers and avid money people ourselves, we believe in the power of awareness, i.e. "whatever that can me measured, can be improved". In the world of software, this translates to building tools that allow you to look behind the bank statements and hear the stories your dollars are telling you.
 
 ## Why free?
 
