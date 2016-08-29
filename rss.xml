@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FPFS]]></title>
-        <description><![CDATA[FPFS]]></description>
+        <title><![CDATA[FPFS is (almost) here]]></title>
+        <description><![CDATA[FPFS is (almost) here]]></description>
         <link>https://thegrid.ai/free-personal-finance-software/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 07:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 07:49:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/free-personal-finance-software/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Truly Free Software to Manage Your Personal Finance]]></title>
             <description><![CDATA[<article><h1>A Truly Free Software to Manage Your Personal Finance</h1><h2>Our origin story</h2><p>Free Personal Finance Software (aka. FPFS) is a free program that helps you with managing your personal finance.</p></article>]]></description>
             <link>https://thegrid.ai/free-personal-finance-software/a-truly-free-software-to-manage-your-personal-finance/index.html</link>
             <guid isPermaLink="false">453c66fc-f1a1-4741-9073-ab0619d5ec28</guid>
-            <pubDate>Sun, 28 Aug 2016 07:14:51 GMT</pubDate>
+            <pubDate>Sun, 28 Aug 2016 07:49:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
