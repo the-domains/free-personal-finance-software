@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-28T12:25:03.070Z'
+datePublished: '2016-08-28T12:29:10.173Z'
 sourcePath: _posts/2016-08-28-free-as-in-free-beer-and-in-free-speech.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T12:25:01.508Z'
+dateModified: '2016-08-28T12:29:01.233Z'
 title: Free as in free beer. Free as in free speech.
 publisher: {}
 description: >-
@@ -14,6 +14,8 @@ starred: false
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c3b4c03-2646-40ba-b5df-35d9dd9ab80a.jpg)
+
 ## Free as in free beer. Free as in free speech.
 
 Our software is free as in free beer, i.e. with a $0 price tag. However, this is not all we mean by "free".
