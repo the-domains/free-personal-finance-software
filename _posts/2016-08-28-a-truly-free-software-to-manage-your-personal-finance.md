@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T07:14:04.115Z'
+datePublished: '2016-08-28T07:14:51.975Z'
 sourcePath: _posts/2016-08-28-a-truly-free-software-to-manage-your-personal-finance.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T07:14:03.312Z'
+dateModified: '2016-08-28T07:14:51.278Z'
 title: A Truly Free Software to Manage Your Personal Finance
 publisher: {}
 description: >-
