@@ -1,16 +1,22 @@
 ---
-datePublished: '2016-08-28T12:29:10.173Z'
+datePublished: '2016-08-28T12:52:21.989Z'
 sourcePath: _posts/2016-08-28-free-as-in-free-beer-and-in-free-speech.md
 inFeed: true
+isBasedOnUrl: null
+authors: []
+hasPage: false
+keywords: []
 author: []
 via: {}
-dateModified: '2016-08-28T12:29:01.233Z'
+dateModified: '2016-08-28T12:52:21.293Z'
 title: Free as in free beer. Free as in free speech.
 publisher: {}
 description: >-
   Our software is free as in free beer, i.e. with a $0 price tag. However, this
   is not all we mean by “free”.
-starred: false
+inLanguage: null
+inNav: false
+starred: true
 _type: Blurb
 
 ---
