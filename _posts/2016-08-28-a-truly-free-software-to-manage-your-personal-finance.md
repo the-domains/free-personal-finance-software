@@ -1,13 +1,9 @@
 ---
-datePublished: '2016-08-28T12:36:59.079Z'
-sourcePath: _posts/2016-08-28-a-truly-free-software-to-manage-your-personal-finance.md
 inFeed: false
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-28T12:36:47.466Z'
-title: Frequently Asked Questions
-publisher: {}
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   We found good money habit an important life skill that many people are not
   cultivating. As software developers and avid money people ourselves, we
@@ -15,12 +11,21 @@ description: >-
   improved”. In the world of software, this translates to building tools that
   allow you to look behind the bank statements and hear the stories your dollars
   are telling you.
+datePublished: '2016-08-29T03:10:20.069Z'
+dateModified: '2016-08-29T03:10:08.499Z'
+sourcePath: _posts/2016-08-28-a-truly-free-software-to-manage-your-personal-finance.md
+author: []
+via: {}
+title: Frequently Asked Questions
+authors: []
+publisher: {}
 starred: false
 url: a-truly-free-software-to-manage-your-personal-finance/index.html
 _type: Blurb
 
 ---
 # Frequently Asked Questions
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37d2f054-89b1-43e8-b7b9-2c6673e47f81.jpg)
 
 ## What motivated you to build FPFS?
 
@@ -30,7 +35,7 @@ You may also want to read our **origin story**.
 
 ## Why free?
 
-We believe that everyone should have access to good personal finance software. Also
+We believe that everyone should have access to good personal finance software. A zero price tag helps us reach the largest audience..
 
 ## What kind of free?
 
