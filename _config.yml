@@ -1,20 +1,34 @@
-typography_spectrum: 0.2008954738266766
-color:
-  brandStrength: 0.7879605479538441
-  lightness: 0.9099222416989505
-  saturation: 0.9320989951957017
-  rhythmicContrast: 0.984281322453171
-  brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.4742749286815524
 name: Free Personal Finance Software
+favicon: null
+layout_spectrum: 0.21419
+typography_spectrum: 0.2008954738266766
 navigation:
   - name: FAQs
     id: 453c66fc-f1a1-4741-9073-ab0619d5ec28
     type: content
 title: Hello fellow human!
 description: Let us help you take control of your financial life
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.7879605479538441
+  lightness: 0.9099222416989505
+  saturation: 0.9320989951957017
+  rhythmicContrast: 0.984281322453171
+purpose: []
